@@ -1,0 +1,31 @@
+customer_id,age,gender,region,monthly_spend,num_tickets_raised,avg_response_time,num_logins,avg_session_time,plan_type,feedback_text,satisfaction_rating,satisfied
+CUST1000,20,Male,North,1745,5,21.5,6,33.5,Premium,Conference far economy rule shake vote.,3,0
+CUST1001,58,Male,South,165,2,5.9,38,47.2,Premium,Training represent real street executive sometimes network leg effect collection.,5,1
+CUST1002,46,Male,West,1406,9,3.5,36,18.3,Basic,These upon wear fact tonight.,3,0
+CUST1003,38,Female,North,1818,6,15.7,87,38.8,Enterprise,Force top story avoid have loss citizen Mrs base eye.,4,1
+CUST1004,18,Male,North,1285,1,26.9,23,56.2,Enterprise,Society building seek on carry specific.,3,0
+CUST1005,53,Male,West,1708,2,19.8,97,7.5,Premium,Fly Congress by half environment generation inside.,3,0
+CUST1006,55,Female,South,1726,4,26.8,22,59.8,Enterprise,Eye mission often sign nature office test including section.,4,1
+CUST1007,49,Female,East,1896,1,7.6,71,56.7,Premium,Bed so performance close key others property school gas girl.,2,0
+CUST1008,40,Male,West,626,7,44.7,81,15.2,Basic,Economic rule behind address million fine of interview.,2,0
+CUST1009,42,Female,West,1207,0,11.9,97,7.7,Enterprise,Expert although while east time most involve specific compare.,5,1
+CUST1010,64,Male,North,1400,6,45.1,69,22.2,Basic,Agency option ready shake wish despite.,4,1
+CUST1011,42,Female,West,1496,5,23,80,43.8,Basic,Six act member education let social in ten major eat.,1,0
+CUST1012,62,Male,West,280,5,29.1,41,5.1,Premium,Do believe return ok usually level world to.,1,0
+CUST1013,23,Female,West,1572,6,38.5,60,47.7,Enterprise,Citizen cut religious people want place suggest song thought ground.,5,1
+CUST1014,34,Male,South,449,6,25.8,14,21,Premium,Reach character moment common lawyer for best government great free.,2,0
+CUST1015,49,Female,West,1958,7,4.1,37,20.2,Basic,Six significant base place claim scientist follow without believe.,4,1
+CUST1016,34,Female,West,1994,9,39,40,1.3,Premium,Will hope home partner especially.,3,0
+CUST1017,29,Female,North,731,8,27.4,46,23,Premium,Everything stand sense pay woman.,2,0
+CUST1018,61,Male,South,1470,5,21,56,41.2,Premium,Six hundred teach hour few expect.,1,0
+CUST1019,34,Female,East,203,0,10,48,15.3,Basic,Interesting brother baby yard center never nice.,1,0
+CUST1020,20,Female,East,643,3,14.4,44,46,Premium,Bag all writer try business hundred lot down.,3,0
+CUST1021,57,Male,South,311,4,7.9,6,32.9,Basic,Minute standard now better radio six despite nice travel hard.,3,0
+CUST1022,64,Female,South,1342,0,25.5,34,23.8,Basic,Total stay choose order member according strong whatever.,3,0
+CUST1023,44,Male,East,334,2,31.7,10,23.8,Basic,Dinner TV social education.,3,0
+CUST1024,36,Male,West,1613,1,18.1,44,29,Enterprise,Can teach turn time believe night hope not vote organization.,3,0
+CUST1025,37,Female,North,1824,8,39.5,98,29.9,Premium,Administration daughter fact car anyone race institution.,5,1
+CUST1026,20,Male,West,542,0,47.4,16,58.2,Basic,Arrive back play know room.,5,1
+CUST1027,58,Female,North,1133,2,37.3,83,31.5,Enterprise,Much policy charge others.,3,0
+CUST1028,19,Male,West,1147,8,34.9,40,20.2,Enterprise,Safe partner light specific when reason give board.,5,1
+CUST1029,36,Male,West,1245,8,30.7,40,13,Enterprise,Every plant there fill hospital.,4,1
